@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/first-project/static/css/main.db6f808d.css",
-    "main.js": "/first-project/static/js/main.dc437b7f.js",
+    "main.css": "/first-project/static/css/main.ddf5f05f.css",
+    "main.js": "/first-project/static/js/main.59e52aec.js",
     "static/js/453.bf170949.chunk.js": "/first-project/static/js/453.bf170949.chunk.js",
+    "static/media/520px-0157Typhlosion-Hisui.png": "/first-project/static/media/520px-0157Typhlosion-Hisui.caacd54ae5a1cf5822f1.png",
     "static/media/8.jpg": "/first-project/static/media/8.3f91513398a9855d3784.jpg",
     "static/media/250px-0157Typhlosion.png": "/first-project/static/media/250px-0157Typhlosion.760e42c4b0e09c59a308.png",
     "static/media/250px-0155Cyndaquil.png": "/first-project/static/media/250px-0155Cyndaquil.423d8e10e842c9340dbf.png",
     "static/media/250px-0156Quilava.png": "/first-project/static/media/250px-0156Quilava.48e5e5541895971e214a.png",
     "index.html": "/first-project/index.html",
-    "main.db6f808d.css.map": "/first-project/static/css/main.db6f808d.css.map",
-    "main.dc437b7f.js.map": "/first-project/static/js/main.dc437b7f.js.map",
+    "main.ddf5f05f.css.map": "/first-project/static/css/main.ddf5f05f.css.map",
+    "main.59e52aec.js.map": "/first-project/static/js/main.59e52aec.js.map",
     "453.bf170949.chunk.js.map": "/first-project/static/js/453.bf170949.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db6f808d.css",
-    "static/js/main.dc437b7f.js"
+    "static/css/main.ddf5f05f.css",
+    "static/js/main.59e52aec.js"
   ]
 }
